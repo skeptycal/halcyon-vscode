@@ -411,7 +411,7 @@
         "punctuation.definition.entity",
         "constant.character.entity",
         "punctuation.definition.template-expression",
-        "punctuation.section.tag.twig",
+        "punctuation.section.tag.twig"
       ],
       "settings": {
         "foreground": "#c3a6ff"

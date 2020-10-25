@@ -1,4 +1,4 @@
-import { Component } from "React";
+import { Component } from 'React';
 
 class Wow extends Component {
   render() {
